@@ -58,7 +58,7 @@ class _AboutSectionState extends State<AboutSection> {
                         height: 25.0,
                       ),
                       Text(
-                        "I'm Muhammad Togoyev, A Flutter Developer",
+                        "I'm Muhammad Togoyev Alisherovich, A Flutter Developer",
                         style: GoogleFonts.josefinSans(
                           fontWeight: FontWeight.bold,
                           height: 1.3,
