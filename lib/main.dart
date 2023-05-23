@@ -24,8 +24,8 @@ class MyApp extends StatelessWidget {
       builder: (context, ref, _) {
         return ThemeProvider(
           initTheme: ref.watch(themeProvider).isDarkMode
-              ? MyThemes.darkTheme
-              : MyThemes.lightTheme,
+              ? MyThemes.lightTheme
+              : MyThemes.darkTheme,
           child: MaterialApp(
             title: "Muhammad Togoyev",
             debugShowCheckedModeBanner: false,
