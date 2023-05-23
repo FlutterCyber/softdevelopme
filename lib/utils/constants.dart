@@ -49,9 +49,9 @@ class AppConstants {
   static const javascriptImage = _techImages + "javascript.png";
 
   static const _projectsImages = _images + "projects/";
-  static const smartStoreImage = _projectsImages + "1.jpeg";
-  static const crossTheRoadImage = _projectsImages + "2.jpeg";
-  static const newsUpImage = _projectsImages + "3.jpeg";
+  static const smartStoreImage = _projectsImages + "1.png";
+  static const crossTheRoadImage = _projectsImages + "2.jpg";
+  static const newsUpImage = _projectsImages + "3.jpg";
   static const musicLabImage = _projectsImages + "4.jpeg";
   static const personalFaceImage = _projectsImages + "5.jpeg";
   static const computerStoreImage = _projectsImages + "6.jpeg";
