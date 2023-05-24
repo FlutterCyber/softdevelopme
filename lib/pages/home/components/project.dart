@@ -9,6 +9,7 @@ import 'package:my_portfolio/utils/utils.dart';
 
 class ProjectSection extends StatelessWidget {
   final List<ProjectModel> projects;
+
   const ProjectSection({Key? key, required this.projects}) : super(key: key);
 
   @override
