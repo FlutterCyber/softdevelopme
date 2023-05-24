@@ -15,10 +15,10 @@ double getMobileMaxWidth(BuildContext context) =>
 
 class AppConstants {
   static const linkedInUrl =
-      "https://www.linkedin.com/in/agnel-selvan-328421192/";
-  static const instagramUrl = "https://www.instagram.com/_agnel.selvan_/";
-  static const githubUrl = "https://github.com/AgnelSelvan";
-  static const mediumUrl = "https://medium.com/@agnelselvan";
+      "https://www.linkedin.com/in/muhammad-tog-oyev-79a584276";
+  static const instagramUrl = "https://www.instagram.com/";
+  static const githubUrl = "https://github.com/fluttercyber";
+  static const mediumUrl = "https://t.me/devFlCy";
 
   static const _assets = "assets/";
   static const _outputs = "outputs/";
